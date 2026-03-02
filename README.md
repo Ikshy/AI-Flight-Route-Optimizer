@@ -1,4 +1,4 @@
-# ✈️ AI Flight Route Optimizer
+# AI Flight Route Optimizer
 
 An AI-powered flight route optimization system using:
 
